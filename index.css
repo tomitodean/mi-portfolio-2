@@ -109,9 +109,7 @@ body::-webkit-scrollbar-thumb {
     margin-left: 490px;
     position: relative;
     top: -520px;
-    font-size: 22px;
-    font-weight: 400;
-    
+    font-size: 18px;
 }
 
 .texto2 {
@@ -120,12 +118,10 @@ body::-webkit-scrollbar-thumb {
     justify-content: center;
     align-items: center;
     margin-top: 20px;
-    margin-left: -330px;
+    margin-left: -188px;
     position: relative;
     top: -540px;
-    font-size: 22px;
-    font-weight: 400;
-   
+    font-size: 18px;
 }
 
 .redes {
@@ -178,7 +174,7 @@ body::-webkit-scrollbar-thumb {
         margin-left: -37px;
         position: relative;
         top: -110px;
-        font-size: 22px;
+        font-size: 18px;
         font-weight: 400;
         width: 443px;
         
@@ -192,7 +188,7 @@ body::-webkit-scrollbar-thumb {
         margin-left: -38px;
         position: relative;
         top: -135px;
-        font-size: 22px;
+        font-size: 18px;
         font-weight: 400;
         width: 443px;
        
@@ -217,7 +213,8 @@ body::-webkit-scrollbar-thumb {
         row-gap: 10px;
         column-gap: 17px;
         position: absolute;
-        left: 57px;
+        left: auto;
+        right: auto;
         margin: 0%; 
         font-size: 100px;
         top: 1060px;
